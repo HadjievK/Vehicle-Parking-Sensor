@@ -5,9 +5,9 @@
 
 **Used Parts** <br />
 
-	&nbsp; Arduino Uno <br />
-	&nbsp; Breadboard <br />
-	&nbsp; Ultrasonic Sensor - HY-SRF05 <br />
-	&nbsp; Led indicator <br />
-	&nbsp; Active Buzzer <br />
-	&nbsp; Jumper wires <br />
+	 Arduino Uno <br />
+	 Breadboard <br />
+	 Ultrasonic Sensor - HY-SRF05 <br />
+	 Led indicator <br />
+	 Active Buzzer <br />
+	 Jumper wires <br />
